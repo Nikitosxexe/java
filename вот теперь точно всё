@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T15:12:42.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Sekqnodp0foQDekDvx5q" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T15:14:47.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Fu7AFBVsmKLIgRm007lo" version="21.2.2" type="github">
   <diagram name="Страница 1" id="MoYv0PyRWWw-MxnjHOV8">
-    <mxGraphModel dx="5985" dy="3910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="3595" dy="2583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,7 +226,7 @@
         <mxCell id="ku8xzFnkZfAE2ZU5_oS2-74" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="-710" width="230" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="ku8xzFnkZfAE2ZU5_oS2-75" value="темы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ku8xzFnkZfAE2ZU5_oS2-75" value="категории" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ku8xzFnkZfAE2ZU5_oS2-76" value="профиль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
