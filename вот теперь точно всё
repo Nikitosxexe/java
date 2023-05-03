@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T15:08:22.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tEBt74VJ35qLKsccGeke" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T16:54:02.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_7B2lllp8AZMPLlETOZ8" version="21.2.3" type="github">
   <diagram name="Страница 1" id="MoYv0PyRWWw-MxnjHOV8">
-    <mxGraphModel dx="7436" dy="4752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="4199" dy="2931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -569,6 +569,17 @@
         </mxCell>
         <mxCell id="1uPyjKmbJSbndzS45jdV-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;развёртывается&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-660" y="2000" width="150" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="1uPyjKmbJSbndzS45jdV-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ku8xzFnkZfAE2ZU5_oS2-191" target="ku8xzFnkZfAE2ZU5_oS2-165">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="2990" as="sourcePoint" />
+            <mxPoint x="1050" y="2940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1uPyjKmbJSbndzS45jdV-17" value="Своё обьявление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=32;" vertex="1" connectable="0" parent="1uPyjKmbJSbndzS45jdV-16">
+          <mxGeometry x="0.1139" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
